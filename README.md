@@ -3,6 +3,13 @@
 
 # ❤️ AI-Powered Heart Disease Prediction Website
 
+📌 **Example MP4 Demonstration:**
+<p align="left">
+  <video width="650" autoplay loop muted playsinline>
+    <source src="images/VideoDemo.mp4" type="video/mp4">
+  </video>
+</p>
+
 ## 📌 Overview
 This web-based **heart disease prediction application** utilizes **machine learning models** to analyze user-input health data and determine the likelihood of heart disease. The system integrates a **neural network (ANN)** alongside other classification models to provide an accurate and user-friendly platform for health risk assessment.
 
